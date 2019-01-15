@@ -1,0 +1,9 @@
+
+.colored-header{
+background: purple;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: space-around;
+}
